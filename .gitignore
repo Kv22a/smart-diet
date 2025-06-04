@@ -18,3 +18,7 @@ model/*.pkl
 # OS
 .DS_Store
 Thumbs.db
+
+# Raw data folders (don't track large files)
+data/raw/
+data/*.zip
