@@ -1,0 +1,20 @@
+# Byte-compiled / virtual-env stuff
+__pycache__/
+*.py[cod]
+.venv/
+env/
+
+# Data
+data/*.zip
+data/*.gz
+data/raw/
+
+# Models
+model/*.pkl
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
